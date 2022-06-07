@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "284383049959",
+    "project_id": "group-mahjong",
+    "storage_bucket": "group-mahjong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284383049959:android:79c3401538283469644a42",
+        "android_client_info": {
+          "package_name": "com.example.mahjong_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284383049959-uc8jev8bs4nhgc3lj52kiq4934qq8164.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_WIqq-xVBtxRDoWpuW4R8xVYidpDVKHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284383049959-uc8jev8bs4nhgc3lj52kiq4934qq8164.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
